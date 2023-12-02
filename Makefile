@@ -1,4 +1,4 @@
-IMAGES_URL=https://cloud.uni-hamburg.de/s/MsqQbgRkswr2aFj/download
+IMAGES_URL=https://cloud.uni-hamburg.de/s/scmENLKEfWcQkRr/download
 IMAGES_ARCHIVE=images.zip
 IMAGES_DIR=images/
 
